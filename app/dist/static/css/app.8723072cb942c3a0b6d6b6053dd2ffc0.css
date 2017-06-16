@@ -1,0 +1,103 @@
+
+* {
+  font-family: Roboto, monospace;
+  color: #e8e8e8;
+}
+body {
+  background-color: #1c1c1c;
+}
+.big-img {
+  max-width: 70%;
+  max-height: 15rem;
+}
+#app {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-direction: column;
+      flex-direction: column;
+}
+
+div[data-v-943fde00] {
+  width: 100%;
+}
+
+.upload-container[data-v-a1fe28a0] {
+  min-width: 40%;
+  max-width: 40em;
+}
+.hidden[data-v-a1fe28a0] {
+  display: none;
+}
+.button[data-v-a1fe28a0] {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.preview[data-v-a1fe28a0] {
+  display: block;
+  margin: 0 auto;
+  max-width: 70%;
+  max-height: 60%;
+}
+.container[data-v-a1fe28a0] {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+}
+#url-bar[data-v-a1fe28a0] {
+  padding: 5px;
+  color: black;
+  width: 90%;
+  height: 1.3em;
+  margin-right: 10px;
+}
+.button {
+  border: none;
+  display: block;
+  padding: 5px;
+  text-align: center;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.btn-success {
+  background-color: green;
+}
+
+.btn-info {
+  background-color: #2d7eff;
+}
+
+.btn-default {
+  background-color: white;
+  color: black;
+}
+.center {
+  margin: 0 auto;
+}
+.progress-bar {
+  background-color: grey;
+  height: 0.5em;
+}
+
+.progress-bar-filled {
+  background-color: green;
+  height: 100%;
+  background: repeating-linear-gradient(
+    135deg,
+    #2d7eff,
+    #2d7eff 10px,
+    #4d91ff 10px,
+    #4d91ff 20px
+  );
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+}
+
+/*# sourceMappingURL=app.8723072cb942c3a0b6d6b6053dd2ffc0.css.map*/

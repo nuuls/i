@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="https://i.imgur.com/xap40eS.png" @click="root()" class="center big-img">
+    <img src="./assets/nuuls.png" @click="root()" class="center big-img">
     <router-view></router-view>
   </div>
 </template>

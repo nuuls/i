@@ -10,7 +10,6 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "hack": "^0.7.7",
     "vue": "^2.1.10",
     "vue-material": "^0.6.3",
     "vue-resource": "^1.2.0",
