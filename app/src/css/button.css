@@ -1,0 +1,23 @@
+.button {
+  border: none;
+  display: block;
+  padding: 5px;
+  text-align: center;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.btn-success {
+  background-color: green;
+}
+
+.btn-info {
+  background-color: #2d7eff;
+}
+
+.btn-default {
+  background-color: white;
+  color: black;
+}
