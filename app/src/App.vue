@@ -19,7 +19,7 @@ export default {
 <style>
 
 * {
-  font-family: Roboto, monospace;
+  font-family: "Roboto Mono", monospace;
   color: #e8e8e8;
 }
 
